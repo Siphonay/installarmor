@@ -30,4 +30,6 @@ textarea
     height: 65px;
     resize: none;
     padding: 0 10px 0 10px;
+    white-space: nowrap;
+    overflow: hidden;
 }
